@@ -13,17 +13,17 @@
 1. spring.factories 이용한 방법
 1. 참조
 
-## 개발환경
+## 1. 개발환경
 - spring boot 2.1.2
 - java 8
 
-## 실행하기
+## 2. 실행하기
 
 ```bash
 # gradlew bootRun
 ```
 
-## tag
+## 3. tag
 예제를 2가지 형태로 제공 합니다.
 
 ```
@@ -31,15 +31,15 @@ git checkout application.addListeners
 git checkout spring.factories
 ```
 
-## application.addListeners
+## 4. application.addListeners
 
 SpringApplication 직접 소스를 추가 해서 사용 하는 방법
 
-## spring.factories
+## 5. spring.factories
 
 resources/META-INF/spring.factories 선언 적으로 사용 하는 방법
 
-## 참조
+## 6. 참조
 - [59. Process Monitoring](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-process-monitoring.html)
 - [Spring boot write current port to file](https://javadeveloperzone.com/spring-boot/spring-boot-write-current-port-to-file/)
 - [Spring boot ApplicationPidFileWriter Example – Process ID writer example](https://javadeveloperzone.com/spring-boot/spring-boot-applicationpidfilewriter-example-process-id-writer-example/)
