@@ -5,13 +5,23 @@
 나중에 어플리케이션을 중지 해야 할때 쉽게 kill 할수 있다.
 그리고 port 도 기록이 된다 우오앙!!!!!!!  
 
-## 
-
 ## 목차
+1. 개발환경
+2. 실행하기
 1. tag 예제 2가지 에 대한 소스 변경 방법
 1. application.addListeners 이용한 소스 직접 수정
 1. spring.factories 이용한 방법
 1. 참조
+
+## 개발환경
+- spring boot 2.1.2
+- java 8
+
+## 실행하기
+
+```bash
+# gradlew bootRun
+```
 
 ## tag
 예제를 2가지 형태로 제공 합니다.
