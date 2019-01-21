@@ -42,7 +42,7 @@ application.addListeners(ApplicationListener) 직접 소스를 추가 해서 사
 
 ## 5. Configuration
 
-resources/META-INF/spring.factories
+[resources/META-INF/spring.factories](https://github.com/deuxksy/spring-boot-skeleton-pid-port/blob/Configuration/src/main/resources/META-INF/spring.factories)
 
 ## 6. 참조
 
